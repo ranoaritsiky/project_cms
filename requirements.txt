@@ -1,0 +1,9 @@
+asgiref==3.5.0
+Django==4.0.2
+django-classy-tags==3.0.1
+django-cms==3.9.0
+django-formtools==2.3
+django-sekizai==3.0.1
+django-treebeard==4.5.1
+djangocms-admin-style==3.0.0
+sqlparse==0.4.2
